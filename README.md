@@ -17,6 +17,8 @@ This repository contains all the Python programming tasks completed during my in
 | Task 1   | To-Do List Application | Simple to-do list app  (CLI + GUI )     |
 | Task 2   |Calculator | simple calculator gui   |
 | Task 3   | password generator                    | strong and secure password generator ( CLI + GUI )       |
+| Task 4   | rock paper scissors game           | using python & tkinter (cli + gui) |
+| Task 5   | contact book  | using python & tkinter (cli + gui ) |
 
 ---
 
